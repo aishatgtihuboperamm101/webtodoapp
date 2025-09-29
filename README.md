@@ -1,4 +1,5 @@
 # webtodoapp
+[![Build Status](https://img.shields.io/github/workflow/status/aishatgtihuboperamm101/WebTodoApp/CI)](https://github.com/aishatgtihuboperamm101/WebTodoApp/actions)
 
 markdown
 # WebTodoApp
